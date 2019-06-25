@@ -1,0 +1,27 @@
+ a{
+     border: 5px,black;
+     text-decoration: none;
+     display: inline-block;
+     background: green;
+     padding: 100px 600px 300px 300px;
+     color: white;
+     
+     text-align: center;
+    font-size: 600px;
+    margin-left: 300px;
+    margin-top: 200px
+
+ }
+
+ a:hover{ 
+     color:black; 
+        background:yellow;
+
+    }
+    a:active{
+        background: red;
+    }
+    a:focus{
+
+    background: aquamarine
+    }
